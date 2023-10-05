@@ -11,6 +11,12 @@
 		18BB98042ACF25830042ACAF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB98032ACF25830042ACAF /* ContentView.swift */; };
 		18BB98062ACF25850042ACAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18BB98052ACF25850042ACAF /* Assets.xcassets */; };
 		18BB980A2ACF25850042ACAF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18BB98092ACF25850042ACAF /* Preview Assets.xcassets */; };
+		18BB98112ACF299C0042ACAF /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB98102ACF299C0042ACAF /* DashboardView.swift */; };
+		18BB98132ACF29C30042ACAF /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB98122ACF29C30042ACAF /* LoginView.swift */; };
+		18BB98152ACF29E20042ACAF /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB98142ACF29E20042ACAF /* SignUpView.swift */; };
+		18BB98172ACF2A080042ACAF /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB98162ACF2A080042ACAF /* SettingsView.swift */; };
+		18BB98192ACF2A230042ACAF /* InboxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB98182ACF2A230042ACAF /* InboxView.swift */; };
+		18BB981B2ACF2A450042ACAF /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BB981A2ACF2A450042ACAF /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +26,12 @@
 		18BB98052ACF25850042ACAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18BB98072ACF25850042ACAF /* DevConnect.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DevConnect.entitlements; sourceTree = "<group>"; };
 		18BB98092ACF25850042ACAF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		18BB98102ACF299C0042ACAF /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		18BB98122ACF29C30042ACAF /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		18BB98142ACF29E20042ACAF /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		18BB98162ACF2A080042ACAF /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		18BB98182ACF2A230042ACAF /* InboxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InboxView.swift; sourceTree = "<group>"; };
+		18BB981A2ACF2A450042ACAF /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +69,12 @@
 				18BB98052ACF25850042ACAF /* Assets.xcassets */,
 				18BB98072ACF25850042ACAF /* DevConnect.entitlements */,
 				18BB98082ACF25850042ACAF /* Preview Content */,
+				18BB98102ACF299C0042ACAF /* DashboardView.swift */,
+				18BB98122ACF29C30042ACAF /* LoginView.swift */,
+				18BB98142ACF29E20042ACAF /* SignUpView.swift */,
+				18BB98162ACF2A080042ACAF /* SettingsView.swift */,
+				18BB98182ACF2A230042ACAF /* InboxView.swift */,
+				18BB981A2ACF2A450042ACAF /* HomeView.swift */,
 			);
 			path = DevConnect;
 			sourceTree = "<group>";
@@ -140,6 +158,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				18BB98042ACF25830042ACAF /* ContentView.swift in Sources */,
+				18BB98152ACF29E20042ACAF /* SignUpView.swift in Sources */,
+				18BB98112ACF299C0042ACAF /* DashboardView.swift in Sources */,
+				18BB98192ACF2A230042ACAF /* InboxView.swift in Sources */,
+				18BB98172ACF2A080042ACAF /* SettingsView.swift in Sources */,
+				18BB981B2ACF2A450042ACAF /* HomeView.swift in Sources */,
+				18BB98132ACF29C30042ACAF /* LoginView.swift in Sources */,
 				18BB98022ACF25830042ACAF /* DevConnectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
